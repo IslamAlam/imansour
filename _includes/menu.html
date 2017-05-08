@@ -1,6 +1,6 @@
 <div id="wrapper">
 
- <a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+ <a href="#sidebar" class="mobilemenu"><i class="fa fa-navicon"></i></a>
 
     <div id="sidebar">
         <div id="main-nav">
@@ -19,8 +19,12 @@
 				
                      {% for menu_item in pages %} <!-- sort items according to weight -->
                         <li>
-                          <a href="#{{ menu_item.link }}">
-                            <div class="{{ menu_item.icon }}"></div>
+                          <a href="{% if menu_item.link contains '.' %}
+                                        {{menu_item.link}} 
+                                      {% else %}
+                                        #{{menu_item.link}}
+                                      {% endif %}">
+                              <div class="{{ menu_item.icon }}"></div>
                             <div class="text">{{ menu_item.title }}</div>
                           </a>
                         </li>   
