@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: icon icon-desktop
+icon: icon fa fa-desktop
 link: projects
 weight: 4
 ---

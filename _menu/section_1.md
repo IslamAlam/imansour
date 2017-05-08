@@ -1,6 +1,6 @@
 ---
 title: about
-icon: icon icon-home
+icon: icon fa fa-home
 link: about
 weight: 1
 ---

@@ -1,6 +1,6 @@
 ---
 title: Resume
-icon: icon icon-edit
+icon: icon fa fa-edit
 link: resume
 weight: 2
 ---

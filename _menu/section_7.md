@@ -1,6 +1,6 @@
 ---
 title: Download CV
-icon: icon icon-download-alt
+icon: icon fa fa-download
 link: download_cv
 weight: 7
 ---

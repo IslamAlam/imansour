@@ -1,6 +1,6 @@
 ---
 title: Publications
-icon: icon icon-edit
+icon: icon fa fa-edit
 link: publications
 weight: 8
 ---
