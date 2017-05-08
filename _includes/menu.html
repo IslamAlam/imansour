@@ -1,0 +1,44 @@
+ <a href="#sidebar" class="mobilemenu"><i class="icon-reorder"></i></a>
+
+    <div id="sidebar">
+        <div id="main-nav">
+            <div id="nav-container">
+                <div id="profile" class="clearfix">
+                    <div class="portrate hidden-xs"></div>
+                    <div class="title">
+                        <h2>Jennifer Doe</h2>
+                        <h3>Stanford University</h3>
+                    </div>
+                    
+                </div>
+				
+                {% assign pages = site.menu | sort:"weight"  %}
+				<ul id="navigation">
+				
+                     {% for menu_item in pages %} <!-- sort items according to weight -->
+                        <li>
+                          <a href="#{{ menu_item.link }}">
+                            <div class="{{ menu_item.icon }}"></div>
+                            <div class="text">{{ menu_item.title }}</div>
+                          </a>
+                        </li>   
+                    
+                    {% endfor %}
+                   
+                </ul>
+				<!--<div id="copyright">Copyright text here</div> -->>
+            </div>  
+			
+        </div>
+        
+        <div class="social-icons">
+            <ul>
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+            </ul>
+        </div>
+		
+    </div> 
