@@ -1,6 +1,6 @@
 ---
-title: Publications
-icon: icon fa fa-edit
-link: publications
+title: Download CV
+icon: icon fa fa-download
+link: download_cv.pdf
 weight: 8
 ---

@@ -1,4 +1,25 @@
 ---
+layout: default
+title: Blog Page
+---
+
+<ul>
+  {% for post in site.posts %}
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+{{ "css/bootstrap.css" | prepend: site.baseurl }}
+{{ site.baseurl }} "css/bootstrap.css"
+{{ "css/bootstrap.css" | prepend: site.baseurl }}
+{{ "css/bootstrap.css" | prepend: site.baseurl }}
+
+<link rel="stylesheet" href="css/bootstrap.css">
+
+
+
+
+---
 title: My home page
 
 ---

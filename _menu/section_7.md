@@ -1,6 +1,6 @@
 ---
-title: Download CV
-icon: icon fa fa-download
-link: download_cv.pdf
+title: Contact
+icon: icon fa fa-calendar
+link: contact
 weight: 7
 ---

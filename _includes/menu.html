@@ -17,8 +17,9 @@
                 {% assign pages = site.menu | sort:"weight"  %}
 				<ul id="navigation">
 				
-                     {% for menu_item in pages %} <!-- sort items according to weight -->
-                        <li>
+                    
+                    {% for menu_item in pages %} <!-- sort items according to weight -->
+                        <!--<li>
                           <a href="{% if menu_item.link contains '.' %}
                                         {{menu_item.link}} 
                                       {% else %}
@@ -27,9 +28,74 @@
                               <div class="{{ menu_item.icon }}"></div>
                             <div class="text">{{ menu_item.title }}</div>
                           </a>
-                        </li>   
+                        </li>  --> 
                     
                     {% endfor %}
+
+                    <!-- sort items according to weight -->
+                        <li>
+                          <a href="../#about">
+                              <div class="icon fa fa-home"></div>
+                            <div class="text">About</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li class="currentmenu">
+                          <a href="./#resume">
+                              <div class="icon fa fa-edit"></div>
+                            <div class="text">Resume</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li>
+                          <a href="blog.html">
+                              <div class="icon fa fa-quote-right"></div>
+                            <div class="text">Blog</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li>
+                          <a href="/#projects">
+                              <div class="icon fa fa-desktop"></div>
+                            <div class="text">Projects</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li>
+                          <a href="#gallery">
+                              <div class="icon fa fa-picture-o"></div>
+                            <div class="text">Gallery</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li>
+                          <a href="#publications">
+                              <div class="icon fa fa-edit"></div>
+                            <div class="text">Publications</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li>
+                          <a href="#contact">
+                              <div class="icon fa fa-calendar"></div>
+                            <div class="text">Contact</div>
+                          </a>
+                        </li>   
+                    
+                     <!-- sort items according to weight -->
+                        <li>
+                          <a href="download_cv.pdf">
+                              <div class="icon fa fa-download"></div>
+                            <div class="text">Download CV</div>
+                          </a>
+                        </li>   
+
                    
                 </ul>
 				<!--<div id="copyright">Copyright text here</div> -->>

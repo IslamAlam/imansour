@@ -1,0 +1,262 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pro",
+				"Projects"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Jekyll/imansour",
+		"/C/Jekyll/imansour/_about",
+		"/C/Jekyll/imansour/_Gallery",
+		"/C/Jekyll/imansour/_includes",
+		"/C/Jekyll/imansour/_layouts",
+		"/C/Jekyll/imansour/_menu",
+		"/C/Jekyll/imansour/_posts",
+		"/C/Jekyll/imansour/_publications",
+		"/C/Jekyll/imansour/img"
+	],
+	"file_history":
+	[
+		"/C/Jekyll/delasa/index.html",
+		"/C/Jekyll/imansour/_includes/section_7.html",
+		"/C/Jekyll/imansour/_includes/section_3.html",
+		"/C/Jekyll/imansour/blog - Copy.html",
+		"/C/Jekyll/imansour/_includes/menu.html",
+		"/C/Jekyll/imansour/blog.html",
+		"/C/Jekyll/imansour/_menu/section_3.md",
+		"/C/Jekyll/imansour/_includes/section_4.html",
+		"/C/Jekyll/imansour/_includes/section_6.html",
+		"/C/Jekyll/imansour/_includes/section_8.html",
+		"/C/Jekyll/imansour/_includes/section_1.html",
+		"/C/Jekyll/imansour/index.html",
+		"/C/Jekyll/imansour/_config.yml",
+		"/C/Jekyll/imansour/_layouts/posts.html",
+		"/C/Jekyll/imansour/_menu/section_6.md",
+		"/C/Jekyll/imansour/_menu/section_8.md",
+		"/C/Jekyll/imansour/_menu/section_7.md",
+		"/C/Jekyll/imansour/_includes/about.html",
+		"/C/Jekyll/imansour/side-bar.html",
+		"/C/Jekyll/imansour/_layouts/default.html",
+		"/C/Jekyll/imansour/_posts/2016-04-03-chocolate-chip-cookies.md",
+		"/C/Jekyll/imansour/_posts/2016-04-04-sourdough-bread.md",
+		"/C/Jekyll/imansour/_menu/section_1.md",
+		"/C/Jekyll/imansour/_menu/section_2.md",
+		"/C/Jekyll/imansour/_menu/section_4.md",
+		"/C/Jekyll/imansour/_menu/section_5.md",
+		"/C/Jekyll/imansour/css/style.css",
+		"/C/Jekyll/imansour/_includes/section_5.html",
+		"/C/Jekyll/myweb/_includes/menu.html",
+		"/C/Jekyll/myweb/_includes/section_5.html",
+		"/C/Jekyll/myweb/_includes/section_3.html",
+		"/C/Jekyll/myweb/index.html",
+		"/C/Jekyll/myweb/_includes/section_6.html",
+		"/C/Jekyll/myweb/_includes/section_8.html",
+		"/C/Jekyll/myweb/_layouts/default.html",
+		"/C/Jekyll/myweb/_menu/section_8.md",
+		"/C/Jekyll/myweb/_menu/section_6.md",
+		"/C/Jekyll/myweb/_config.yml",
+		"/C/Jekyll/myweb/_menu/section_4.md",
+		"/C/Jekyll/myweb/_includes/section_4.html",
+		"/C/Jekyll/myweb/_includes/section_2.html",
+		"/C/Jekyll/myweb/_includes/about.html",
+		"/C/Jekyll/myweb/_menu/section_3.md",
+		"/C/Jekyll/myweb/_includes/section_7.html",
+		"/C/Jekyll/myweb/_includes/section_1.html",
+		"/C/Jekyll/myweb/_menu/about.md",
+		"/C/Jekyll/myweb/_menu/blog.md",
+		"/C/Jekyll/myweb/_menu/contact.md",
+		"/C/Jekyll/myweb/_menu/download.md",
+		"/C/Jekyll/myweb/_menu/gallery.md",
+		"/C/Jekyll/myweb/_menu/projects.md",
+		"/C/Jekyll/myweb/_menu/publications.md",
+		"/C/Jekyll/myweb/_menu/resume.md",
+		"/C/Jekyll/myweb/index.md",
+		"/C/Jekyll/myweb/_menu/Publications.md"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"http",
+			"http://",
+			"icon-",
+			"img",
+			"expand-alt",
+			"icon-",
+			"collapse",
+			"pubcollapse",
+			"collapse",
+			"icon-",
+			"icon",
+			"icon-",
+			"blog",
+			"fa fa-",
+			"---",
+			"fa-",
+			"fa fa-",
+			"icon icon-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"https://",
+			"fa fa-",
+			"plus-square-o",
+			"fa fa-",
+			"fa-",
+			"icon icon-",
+			"icon-",
+			"icon icon-",
+			"fa fa-"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "mansour.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

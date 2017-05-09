@@ -1,6 +1,6 @@
 ---
-title: Contact
-icon: icon fa fa-calendar
-link: contact
+title: Publications
+icon: icon fa fa-edit
+link: publications
 weight: 6
 ---
